@@ -15,3 +15,5 @@
 
 --- Envio promedio de cada tienda: ✓
 
+--- Graficos: ✓
+
