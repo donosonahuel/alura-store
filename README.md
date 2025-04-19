@@ -9,7 +9,7 @@
 
 --- Total de ventas por categoria de cada tienda y la mas popular: ✓
 
---- Valoración media de cada tienda:
+--- Valoración media de cada tienda: ✓
 
 --- Productos mas y menos vendidos de cada tienda:
 
