@@ -13,5 +13,5 @@
 
 --- Productos mas y menos vendidos de cada tienda: ✓
 
---- Envio promedio de cada tienda: 
+--- Envio promedio de cada tienda: ✓
 
