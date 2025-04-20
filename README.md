@@ -1,19 +1,26 @@
 <h1>Desafío Alura - Ciencia de Datos</h1>
 
-<h2>Descripción del Challenge</h2>
-<p>Un cliente quiere encontrar la mejor opcion de que tienda prefiere invertir y es la razón que un analista de datos tiene que filtrar la información para optimizar sus opciones decisión.</p>
+## 📌 Descripción del Proyecto
+Análisis de datos para recomendar al Sr. Juan qué tienda priorizar en su inversión, evaluando:
+- Facturación total
+- Ventas por categoría
+- Satisfacción de clientes
+- Costos logísticos
 
-<h3>Objetivos</h3>
+## 🎯 Métricas Clave Analizadas
+| Indicador               | Tienda 1         | Tienda 2         | Tienda 3 (Recomendada) | Tienda 4         |
+|-------------------------|------------------|------------------|-----------------------|------------------|
+| **Facturación Total**   | $1,150,880,400   | $1,116,343,500   | $1,098,019,600        | $1,038,375,700   |
+| **Calificación**        | 3.98 ★           | 4.04 ★           | **4.05 ★**            | 4.0 ★            |
+| **Categoría Top**       | Muebles (465)    | Muebles (442)    | **Muebles (499)**     | Muebles (480)    |
+| **Envío Promedio**      | $26,018.61       | $25,216.24       | $24,805.68            | $23,459.46       |
 
---- Ingreso total de cada tienda: ✓
+## 📊 Hallazgos Clave
+1. **Tienda 3** destaca por:
+   - Mayor volumen en muebles (499 unidades)
+   - Mejor calificación de clientes (4.05/5)
+   - Balance óptimo entre facturación y costos
 
---- Total de ventas por categoria de cada tienda y la mas popular: ✓
-
---- Valoración media de cada tienda: ✓
-
---- Productos mas y menos vendidos de cada tienda: ✓
-
---- Envio promedio de cada tienda: ✓
-
---- Graficos: ✓
-
+2. **Oportunidades**:
+   - Optimizar logística para reducir costos de envío (5.7% más alto que Tienda 4)
+   - Potenciar ventas de instrumentos musicales (categoría menos vendida)
