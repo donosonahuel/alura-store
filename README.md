@@ -26,6 +26,6 @@ Análisis de datos para recomendar al Sr. Juan qué tienda priorizar en su inver
    - Potenciar ventas de instrumentos musicales (categoría menos vendida)
   
 3. **Graficos**:
-   Link de acceso directo:
 
-   [![Ver Gráficos](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d3ue6hA9tXzOp9az46jg5Fr818Zy7sq6?authuser=3#scrollTo=mEWlgv5QUqxR&line=1&uniqifier=1)
+   Link de acceso directo:
+    [![Ver Gráficos](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d3ue6hA9tXzOp9az46jg5Fr818Zy7sq6?authuser=3#scrollTo=mEWlgv5QUqxR&line=1&uniqifier=1)
